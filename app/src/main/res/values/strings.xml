@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="followers_value">followers_v</string>
+    <string name="following_value">following_v</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="repository_value">repository_v</string>
+    <string name="following">Following</string>
+    <string name="profile_image">profileImage</string>
+    <string name="url">URL</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="tabs">tabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_hint">Cari Username Github</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
